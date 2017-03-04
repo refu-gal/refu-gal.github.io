@@ -36,4 +36,7 @@ These other ideas proposed, were not developed, but could be equally valuable
 * Platform to offer different services for refugees.
 * Elearning platform with videos made by refugees to refugees.
 * Public FAQ in different languages oriented to make easier the cultural adaptation.
+* Platform to track campaings.
+* Crowfunding platform for social campaings.
+* Platform to teach the local languages to refugees.
 
