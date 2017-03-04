@@ -18,3 +18,11 @@ Refugee oriented bot to achieve an improvement on communication with other refug
 ##Geohelp
 
 Involve local people to lend some not used crop fields so refugees or other people in needs could work those fields for free and get food and basics for them and their families.
+
+#Other ideas
+
+Some other ideas proposed
+
+* Local platform helping refugees with their integration
+* Mentor network / Time based currency network to help local refugees
+* 
