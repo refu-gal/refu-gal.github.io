@@ -1,4 +1,4 @@
-#Hackathon for refugees
+#Hackathon for refugees, second edition
 
 During two days, people with different backgrounds will be working on several own open source projects and ideas to help refugees in any imaginable way.
 After explaining and voting many of their own proposed ideas, the following ones were selected and teams built to work on them:
