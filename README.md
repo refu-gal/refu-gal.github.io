@@ -25,4 +25,4 @@ These other ideas proposed, were not developed, but could be equally valuable
 
 * Local platform helping refugees with their integration
 * Mentor network / Time based currency network to help local refugees
-* 
+* Platform incorporating prototypes that could be built with waste materials.
