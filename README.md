@@ -3,6 +3,8 @@
 During two days, people with different backgrounds will be working on several own open source projects and ideas to help refugees in any imaginable way.
 After explaining and voting many of their own proposed ideas, the following ones were selected and teams built to work on them:
 
+![panel](panel.png)
+
 ##[Integrapp](https://github.com/refu-gal/integrapp)
 
 Web platform offering goods and services for refugees to opt in when the get to some new place (i.e. somewhere to sleep, food, children caring, ...)
