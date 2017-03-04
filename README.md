@@ -42,4 +42,5 @@ These other ideas proposed, were not developed, but could be equally valuable
 * Platform to track campaings.
 * Crowfunding platform for social campaings.
 * Platform to teach the local languages to refugees.
+* People localization service.
 
