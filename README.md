@@ -29,4 +29,11 @@ These other ideas proposed, were not developed, but could be equally valuable
 * Recommendation platform where people can rate refugees' profiles.
 * Webcam network in the exit route for refugees.
 * Public/private database where people in refugee camps can publish their data in order to get reached.
-* 
+* Question/Answer platform.
+* Hub to host all the initiatives of the different NGOs.
+* Meetup groups to connect refugees and volunteers.
+* Photo gallery with photos from the conflict zones to attract people attention to the problem.
+* Platform to offer different services for refugees.
+* Elearning platform with videos made by refugees to refugees.
+* Public FAQ in different languages oriented to make easier the cultural adaptation.
+
