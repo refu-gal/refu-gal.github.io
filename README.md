@@ -23,6 +23,10 @@ Involve local people to lend some not used crop fields so refugees or other peop
 
 These other ideas proposed, were not developed, but could be equally valuable
 
-* Local platform helping refugees with their integration
-* Mentor network / Time based currency network to help local refugees
+* Local platform helping refugees with their integration.
+* Mentor network / Time based currency network to help local refugees.
 * Platform incorporating prototypes that could be built with waste materials.
+* Recommendation platform where people can rate refugees' profiles.
+* Webcam network in the exit route for refugees.
+* Public/private database where people in refugee camps can publish their data in order to get reached.
+* 
