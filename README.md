@@ -22,6 +22,10 @@ Refugee oriented bot to achieve an improvement on communication with other refug
 
 Involve local people to lend some not used crop fields so refugees or other people in needs could work those fields for free and get food and basics for them and their families.
 
+##[Social Arcade]()
+
+A crowdfunding campaign to fund the building of three arcade social machines, an arcade machine whose proceeds will go to help refugees and organizations involved in helping refugees.
+
 #Some other ideas proposed
 
 These other ideas proposed, were not developed, but could be equally valuable
