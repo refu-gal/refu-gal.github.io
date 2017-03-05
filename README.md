@@ -1,4 +1,4 @@
-#Hackathon for refugees, second edition with participation of [Microsft](https://www.microsoft.com/es-es/), [Quobis](https://www.quobis.com/), [ESEI Vigo](http://esei.uvigo.es/), [XantarDev](https://www.meetup.com/es-ES/XantarDev/?chapter_analytics_code=UA-90442340-1), [ElLagrimal](http://www.ellagrimal.com/)
+#Hackathon for refugees, second edition with the participation of [Microsft](https://www.microsoft.com/es-es/), [Quobis](https://www.quobis.com/), [ESEI Vigo](http://esei.uvigo.es/), [XantarDev](https://www.meetup.com/es-ES/XantarDev/?chapter_analytics_code=UA-90442340-1), [ElLagrimal](http://www.ellagrimal.com/)
 
 During two days, people with different backgrounds will be working on several own open source projects and ideas to help refugees in any imaginable way.
 After explaining and voting many of their own proposed ideas, the following ones were selected and teams built to work on them:
