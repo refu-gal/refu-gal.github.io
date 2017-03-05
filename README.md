@@ -5,7 +5,7 @@ After explaining and voting many of their own proposed ideas, the following ones
 
 ![panel](panel.png)
 
-##[Integrapp](https://github.com/refu-gal/integrapp) - [web](http://meanit.refu.gal)
+##[MeanIt](https://github.com/refu-gal/meanit) - [web](http://meanit.refu.gal)
 
 Web platform offering goods and services for refugees to opt in when the get to some new place (i.e. somewhere to sleep, food, children caring, ...)
 
