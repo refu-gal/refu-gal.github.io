@@ -18,7 +18,7 @@ Movement to get companies to provide a checkbox on their employees' contracts so
 
 Refugee oriented bot to achieve an improvement on communication with other refugees and different organizations working with them. You could, for example, send an alert to the bot about some danger and it can then notify other nearby refugees about it.
 
-##[Newlife](https://github.com/refu-gal/geohelp) - [web](http://geohelp.refu.gal)
+##[Newlife](https://github.com/refu-gal/geohelp)
 
 Involve local people to lend some not used crop fields so refugees or other people in needs could work those fields for free and get food and basics for them and their families.
 
