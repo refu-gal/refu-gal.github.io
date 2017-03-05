@@ -5,20 +5,20 @@ After explaining and voting many of their own proposed ideas, the following ones
 
 ![panel](panel.png)
 
-##[Integrapp](https://github.com/refu-gal/integrapp) [web](http://meanit.refu.gal)
+##[Integrapp](https://github.com/refu-gal/integrapp) - [web](http://meanit.refu.gal)
 
 Web platform offering goods and services for refugees to opt in when the get to some new place (i.e. somewhere to sleep, food, children caring, ...)
 
 
-##[Morewithless](https://github.com/refu-gal/morewithless) [web](http://morewithless.refu.gal)
+##[Morewithless](https://github.com/refu-gal/morewithless) - [web](http://morewithless.refu.gal)
 
 Movement to get companies to provide a checkbox on their employees' contracts so they can donate part of their annual wages to some NGO. Also provides a platform to follow up on actions being done with that money.
 
-##[Refubot](https://github.com/refu-gal/refubot) [web](http://refubot.refu.gal)
+##[Refubot](https://github.com/refu-gal/refubot) - [web](http://refubot.refu.gal)
 
 Refugee oriented bot to achieve an improvement on communication with other refugees and different organizations working with them. You could, for example, send an alert to the bot about some danger and it can then notify other nearby refugees about it.
 
-##[Geohelp](https://github.com/refu-gal/geohelp) [web](http://geohelp.refu.gal)
+##[Geohelp](https://github.com/refu-gal/geohelp) - [web](http://geohelp.refu.gal)
 
 Involve local people to lend some not used crop fields so refugees or other people in needs could work those fields for free and get food and basics for them and their families.
 
